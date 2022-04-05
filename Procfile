@@ -1,1 +1,1 @@
-web: gunicorn github_actions_demo.wsgi
+web: gunicorn github_actions.wsgi
