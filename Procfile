@@ -1,1 +1,1 @@
-web: gunicorn github_actions_django.github_actions.wsgi
+web: gunicorn github_actions_demo.wsgi
