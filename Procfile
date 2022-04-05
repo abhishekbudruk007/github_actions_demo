@@ -1,0 +1,1 @@
+web: gunicorn github_actions_django.github_actions.wsgi
