@@ -3,4 +3,4 @@ from github_actions.wsgi import application
 
 
 if __name__ == "__main__":
-    serve(application, host='localhost', port='9000')
+    serve(application, host='localhost', port='8000')
